@@ -4,7 +4,7 @@ import os
 
 os.environ["LANGSMITH_TRACING"] = "true"
 os.environ["LANGSMITH_API_KEY"] = "lsv2_p..."
-os.environ["LANGSMITH_PROJECT"] = "pr-candid-latex-61"
+os.environ["LANGSMITH_PROJECT"] = "pr-..."
 
 
 os.environ["GROQ_API_KEY"] = "gsk_6..."
