@@ -16,7 +16,7 @@ prompt_template = prompt.PromptTemplate.from_template(
 # ask_prompt = prompt_template.invoke({"topic": "cats"})
 # print(ask_prompt)
 
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "gsk_6..."
 
 model = init_chat_model("llama3-8b-8192", model_provider="groq")
 
